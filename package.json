@@ -1,0 +1,10 @@
+{
+  "name": "pizza-calc",
+  "version": "1.0.0",
+  "description": "Pizza Cost Comparison Tool",
+  "main": "index.js",
+  "repository": "git@github.com:juddzilla/pizza-calc.git",
+  "author": "Judd Hendrix <juddhendrix@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
